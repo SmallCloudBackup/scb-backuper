@@ -1,5 +1,5 @@
 {
-  "name": "SmallCloudBackup-Backuper",
+  "name": "scb-backuper",
   "description": "Worker for the backups",
   "version": "0.0.1",
   "private": false,
