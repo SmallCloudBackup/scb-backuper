@@ -1,0 +1,13 @@
+{
+  "name": "SmallCloudBackup-Backuper",
+  "description": "Worker for the backups",
+  "version": "0.0.1",
+  "private": false,
+  "repository": "https://github.com/SmallCloudBackup/scb-backuper"
+  "dependencies": {
+    "mongoose": "*",
+    "async": "*",
+    "debug": "*",
+    "jackrabbit": "*"
+  }
+}
